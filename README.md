@@ -4,7 +4,5 @@
 
 ### Opa, tudo certo?
 Meu nome é Ednardo Paz, eu sou estudante de Desenvolvimento Web e sigo minha caminhada dedicando minha vida aos estudos!
-- 👨🏻‍💻 Front-end.
-- 🔍 Atualmente aberto a novas oportunidades.
-- 📡 Neste momento busco colaborar com projetos Front-end.
-- 💬 Sobre mim: Adoro aprender e tocar bateria!!
+- 👨🏻‍💻 Front-end na Crably Aps.
+- 💬 Sobre mim: Adoro aprender, tocar bateria e codar!!!
